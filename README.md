@@ -1,2 +1,2 @@
 # Automatizacion-industrial
-Proyectos de plc integrados con python
+Proyectos de plc con python integrando nodered e inteligencia artificial
